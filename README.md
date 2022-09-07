@@ -19,7 +19,7 @@ Hi, I'm JeanDes-Code 😉, a web developer from France 🥖. I'm a Javascript de
 
 - 👨🏻‍💻 I’m currently working on [JeanDes-code/tiktok_clone_typescript](https://github.com/JeanDes-Code/tiktok_clone_typescript) and for a client on a private project of eshop.
 - 🌱 I’m currently learning TypeScript and web 3.0 technologies.
-- 🤔 My research interests are with Blockchain Systems, Metaverse projects, and anything related to next-gen web apps.
+- 🤔 My interests are with Blockchain Systems, Metaverse projects, and anything related to next-gen web apps.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via desauwjean@gmail.com to reach me.
 - 👀 See my [website](https://jean-desauw.fr/) to get more info.
