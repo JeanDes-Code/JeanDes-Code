@@ -13,16 +13,16 @@
 
 Hi, I'm JeanDes-Code 😉, a web developer from France 🥖. I'm a Javascript developer specialized in React. Currently, I'm working as a freelance developer to make web apps for clients. Beside's programming, I like healthy food 🥗🍣, meditation 🧘‍♂️ and learning new stuff.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+  <img align="right" alt="GIF" width='380px'  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m currently working on [JeanDes-code/tiktok_clone_typescript](https://github.com/JeanDes-Code/tiktok_clone_typescript) and for a client on a private project of eshop.
-- 🌱 I’m currently learning TypeScript and web 3.0 technologies.
+- 👨🏻‍💻 I’m currently working on a personnal blog project with Next.js and GraphQL CMS and on a React Native NeoBank Application for a french startUp. Those projects' repositories are not public for now... But feel free to check my public repos 👐 !
+- 🌱 I’m currently learning React Native, TypeScript and Web 3.0 technologies.
 - 🤔 My interests are with Blockchain Systems, Metaverse projects, and anything related to next-gen web apps.
-- 💬 Ask me about anything, I would like to answer.
+- 💬 Feel free to contact me !
 - 📫 Please email via desauwjean@gmail.com to reach me.
-- 👀 See my [website](https://jean-desauw.fr/) to get more info.
+- 👀 See my [french portfolio](https://jean-desauw.fr/) to get more info.
 
 ![JeanDes-Code's github stats](https://github-readme-stats.vercel.app/api?username=JeanDes-Code&show_icons=true&hide_border=true)
 
