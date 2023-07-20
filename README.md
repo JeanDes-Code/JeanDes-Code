@@ -17,8 +17,8 @@ Hi, I'm JeanDes-Code 😉, a web developer from France 🥖. I'm a Javascript de
 
 **Current Status Quo**
 
-- 👨🏻‍💻 I’m currently working on two Next13 apps for customers and on a React Native NeoBank Application for a french start-up. Those projects' repositories are not public... But feel free to check my public repos 👐 !
-- 🌱 I’m currently learning TypeScript and Web 3.0 technologies.
+- 👨🏻‍💻 I’m currently working on two Next13 apps for customers and on a React Native Airbnb like Application for a french start-up. Those projects' repositories are not public... But feel free to check my public repos 👐 !
+- 🌱 I’m currently learning Web 3.0 technologies.
 - 🤔 My interests are with Blockchain Systems, Metaverse projects, and anything related to next-gen web apps.
 - 💬 Feel free to contact me !
 - 📫 Please email via desauwjean@gmail.com to reach me.
