@@ -3,13 +3,14 @@
 </div>
 
 <h3 align="center">
-⬇️ Check out my links ! ⬇️
+⬇️ Check out my links! ⬇️
 </h3>
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bryanbrg/)
-[<img src="https://img.shields.io/badge/Atomic%20React-12100E?style=for-the-badge&logo=react&logoColor=%2304D8F9" />](https://jean-desauw.fr/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jean-desauw/)
+[<img src="https://img.shields.io/badge/Jean%20Desauw-%23000000?style=for-the-badge&logo=react&logoColor=%2304D8F9&color=%23FFFFFF" />](https://jean-desauw.fr/)
+[<img src="https://img.shields.io/badge/Malt-%23FF6B6B.svg?style=for-the-badge&logoColor=white" />](https://www.malt.fr/profile/jeandesauw)
 
 
 </div>
@@ -24,19 +25,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🎨 Design
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/adobe_xd-%23F05BB4.svg?style=for-the-badge&logo=adobexd&logoColor=white)
-
 ### 🧰 Frameworks and libraries
 
 ![React](https://img.shields.io/badge/react-%232d415c.svg?style=for-the-badge&logo=react&logoColor=%2304D8F9)
+![React Native](https://img.shields.io/badge/react_native-%2362D1F6.svg?style=for-the-badge&logo=react&logoColor=white)
 ![NextJS](https://img.shields.io/badge/next_js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![SolidJS](https://img.shields.io/badge/solid_js-%232c4f7c.svg?style=for-the-badge&logo=solid&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23b52e31.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-%23000020.svg?style=for-the-badge&logo=expo&logoColor=white)
-![Ionic](https://img.shields.io/badge/ionic-%233880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Recoil](https://img.shields.io/badge/recoil-%233578e5.svg?style=for-the-badge&logo=recoiljs&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
@@ -44,43 +38,33 @@
 
 ### 📱 UI
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Bulma](https://img.shields.io/badge/bulma-%2300D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white)
-![AntDesign](https://img.shields.io/badge/ant_design-%230170FE.svg?style=for-the-badge&logo=antdesign&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn_ui-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwind_css-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Angular Material](https://img.shields.io/badge/angular_material-%233f51b5.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### ⚙️ Backend
 
 ![NodeJS](https://img.shields.io/badge/node_js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nest_js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/supabase-%233ecf8e.svg?style=for-the-badge&logo=supabase&logoColor=black)
+![Sanity](https://img.shields.io/badge/sanity-%23F03E2F.svg?style=for-the-badge&logo=sanity&logoColor=white)
 
 ### 🗄 Databases
 
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![RethinkDB](https://img.shields.io/badge/rethink_db-%23B5B5B6.svg?style=for-the-badge&logo=rethink&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![GROQ](https://img.shields.io/badge/groq-%23F03E2F.svg?style=for-the-badge&logo=groq&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 🖥️ Environment
 
-![apple](https://img.shields.io/badge/apple-black.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/visual_studio_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Insomnia](https://img.shields.io/badge/insomia-%234000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-### 📈 Project Management & No-code
+### 📈 Project Management
 
 ![Trello](https://img.shields.io/badge/trello-%230052CC.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-black.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Click Up](https://img.shields.io/badge/click_up-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
 
-### 🧠 Currently learning
-
-<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" title="Rust" alt="Rust badge" /> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" title="Go" alt="Go badge" />
-
-### ✅ Personnal conventions, rules and practicies
-
-Checkout my personnal development conventions, rules and practicies [HERE](https://github.com/BryanBerger98/personal-conventions)
