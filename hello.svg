@@ -87,7 +87,7 @@
 			position: absolute;
 			left: 0;
 			right: 0;
-			bottom: 5px;
+			bottom: 10px;
 			width: 95%;
 			height: 120px;
 			display: flex;
