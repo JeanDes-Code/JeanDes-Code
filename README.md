@@ -65,6 +65,5 @@
 
 ### 📈 Project Management
 
-![Trello](https://img.shields.io/badge/trello-%230052CC.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-black.svg?style=for-the-badge&logo=notion&logoColor=white)
 
