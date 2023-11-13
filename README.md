@@ -2,6 +2,19 @@
  <img src="./hello.svg" style="width: 100%" alt="Click to see the source" />
 </div>
 
+
+<div align="center">
+
+ <a href="https://app.daily.dev/jean_descode">
+   <img src="https://api.daily.dev/devcards/81fdfbe3502a4c4fb3105bf69afd4a80.png?r=q7j" width="400" alt="Jean's Dev Card"/>
+ </a>
+
+</div>
+
+<br />
+<br />
+
+
 <h3 align="center">
 ⬇️ Check out my links! ⬇️
 </h3>
@@ -17,6 +30,7 @@
 
 <br />
 <br />
+
 
 ## My skills 🚀
 
