@@ -5,8 +5,10 @@
 
 <div align="center">
 
- <a href="https://app.daily.dev/jean_descode">
-   <img src="https://api.daily.dev/devcards/81fdfbe3502a4c4fb3105bf69afd4a80.png?r=q7j" width="400" alt="Jean's Dev Card"/>
+
+<a href="https://app.daily.dev/DailyDevTips">
+ <img src="./devcard.svg" width="400" alt="JeanDes-Code's Dev Card"/>
+</a>
  </a>
 
 </div>
