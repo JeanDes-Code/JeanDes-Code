@@ -13,10 +13,6 @@
 
 </div>
 
-<br />
-<br />
-
-
 <h3 align="center">
 ⬇️ Check out my links! ⬇️
 </h3>
