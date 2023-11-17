@@ -6,7 +6,7 @@
 <div align="center">
 
 
-<a href="https://app.daily.dev/DailyDevTips">
+<a href="https://dly.to/eAKkV72CpZM">
  <img src="./devcard.svg" width="400" alt="JeanDes-Code's Dev Card"/>
 </a>
  </a>
