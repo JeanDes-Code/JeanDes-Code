@@ -2,17 +2,6 @@
  <img src="./hello.svg" style="width: 100%" alt="Click to see the source" />
 </div>
 
-
-<div align="center">
-
-
-<a href="https://dly.to/eAKkV72CpZM">
- <img src="./devcard.svg" width="400" alt="JeanDes-Code's Dev Card"/>
-</a>
- </a>
-
-</div>
-
 <h3 align="center">
 ⬇️ Check out my links! ⬇️
 </h3>
@@ -79,3 +68,11 @@
 
 ![Notion](https://img.shields.io/badge/notion-black.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+<div align="center">
+
+
+<a href="https://dly.to/eAKkV72CpZM">
+ <img src="./devcard.svg" width="400" alt="JeanDes-Code's Dev Card"/>
+</a>
+
+</div>
