@@ -1,7 +1,16 @@
+
+
 <div style="width: 100%" align="center">
  <img src="./hello.svg" style="width: 100%" alt="Click to see the source" />
 </div>
+<div align="center">
 
+
+<a href="https://app.daily.dev/jean_descode">
+ <img src="./jean_descode.png" width="100%" alt="JeanDes-Code's Dev Card"/>
+</a>
+
+</div>
 <h3 align="center">
 ⬇️ Check out my links! ⬇️
 </h3>
@@ -16,6 +25,7 @@
 </div>
 
 <br />
+
 <br />
 
 
@@ -68,11 +78,4 @@
 
 ![Notion](https://img.shields.io/badge/notion-black.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<div align="center">
 
-
-<a href="https://dly.to/eAKkV72CpZM">
- <img src="./jean_descode.png" width="400" alt="JeanDes-Code's Dev Card"/>
-</a>
-
-</div>
