@@ -72,7 +72,7 @@
 
 
 <a href="https://dly.to/eAKkV72CpZM">
- <img src="./devcard.svg" width="400" alt="JeanDes-Code's Dev Card"/>
+ <img src="./jean_descode.png" width="400" alt="JeanDes-Code's Dev Card"/>
 </a>
 
 </div>
