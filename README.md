@@ -2,7 +2,7 @@
 
 
 <a href="https://app.daily.dev/jean_descode">
- <img src="./jean_descode.png" width="100%" alt="JeanDes-Code's Dev Card"/>
+ <img src="./devcard.png" width="100%" alt="JeanDes-Code's Dev Card"/>
 </a>
 
 </div>
