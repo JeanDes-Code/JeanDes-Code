@@ -1,8 +1,3 @@
-
-
-<div style="width: 100%" align="center">
- <img src="./hello.svg" style="width: 100%" alt="Click to see the source" />
-</div>
 <div align="center">
 
 
