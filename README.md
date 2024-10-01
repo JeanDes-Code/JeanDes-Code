@@ -1,76 +1,44 @@
-<div align="center">
+![👋 Hi, my name is Jean ](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
+![Profile views](https://komarev.com/ghpvc/?username=JeanDes-Code&label=Profile%20views&color=0e75b6&style=flat)
 
-<a href="https://app.daily.dev/jean_descode">
- <img src="./devcard.png" width="100%" alt="JeanDes-Code's Dev Card"/>
-</a>
-
-</div>
-<h3 align="center">
-⬇️ Check out my links! ⬇️
-</h3>
-
-<div align="center">
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jean-desauw/)
-[<img src="https://img.shields.io/badge/Jean%20Desauw-%23000000?style=for-the-badge&logo=react&logoColor=%2304D8F9&color=%23FFFFFF" />](https://jean-desauw.fr/)
-[<img src="https://img.shields.io/badge/Malt-%23FF6B6B.svg?style=for-the-badge&logoColor=white" />](https://www.malt.fr/profile/jeandesauw)
-
-
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Jean 
+      </h1>
+    </summary>
+  </ul>
 </div>
 
-<br />
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/JeanDes-Code" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/jean-desauw" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/jeandescode" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-<br />
+ **<h3 align="left">Fullstack developer by trade, digital alchemist by nature. I turn lines of code into sleek, powerful web and mobile applications, with JavaScript as my wand and React as my spellbook. Whether it's an app to bring music to life or a platform that transforms how businesses work, I thrive on building experiences that are as intuitive as they are innovative.</h3>**
+
+**<h3 align="left">Rapid Fire</h3>**
+
+- 💼 I'm currently working on: **Developing a music learning gaming platform using React Native (web, iOS, Android)**
+- 🌱 I'm currently learning: **Three.js and FPS-optimized animations**
+- 💬 Ask me about: **Next.js, React Native, React Native Skia, TailwindCSS/Nativewind**
+- ⚡ Fun fact: **I debug by talking to a rubber duck... in my TTRPG character's voice. Yes, it helps!**
+- 📂 Portfolio: **<a href="https://www.jean-desauw.fr" target="_blank">https://www.jean-desauw.fr</a>**
+- 📝 Blog: **<a href="https://www.jean-desauw.fr/blog" target="_blank">https://www.jean-desauw.fr/blog</a>**
 
 
-## My skills 🚀
+ **<h3 align="left">Skills</h3>**
 
-### 👅 Languages
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="28" alt="Prisma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GSAP-00D084?logo=gsap&logoColor=white" height="28" alt="GSAP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Sequelize-2D3748?logo=sequelize&logoColor=white" height="28" alt="Sequelize" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" height="28" alt="React Native" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="28" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" height="28" alt="Supabase" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="28" alt="Firebase" style="margin-right: 4px"> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="28" alt="SQLite" style="margin-right: 4px"></div>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+ **<h3 align="left">GitHub Stats</h3>**
 
-### 🧰 Frameworks and libraries
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JeanDes-Code&theme=tokyonight&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23&title_color=Jean%27s+Github+Stats&number_format=long&custom_title=Jean%27s+Github+Stats&show=" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=JeanDes-Code&theme=tokyonight&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&exclude_days=Sun%2CSat" alt="GitHub streak Card" />
+</p>
 
-![React](https://img.shields.io/badge/react-%232d415c.svg?style=for-the-badge&logo=react&logoColor=%2304D8F9)
-![React Native](https://img.shields.io/badge/react_native-%2362D1F6.svg?style=for-the-badge&logo=react&logoColor=white)
-![NextJS](https://img.shields.io/badge/next_js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-%23000020.svg?style=for-the-badge&logo=expo&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Recoil](https://img.shields.io/badge/recoil-%233578e5.svg?style=for-the-badge&logo=recoiljs&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-### 📱 UI
-
-![shadcn/ui](https://img.shields.io/badge/shadcn_ui-%23000000.svg?style=for-the-badge&logoColor=white)
-![Tailwind](https://img.shields.io/badge/tailwind_css-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend
-
-![NodeJS](https://img.shields.io/badge/node_js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/supabase-%233ecf8e.svg?style=for-the-badge&logo=supabase&logoColor=black)
-![Sanity](https://img.shields.io/badge/sanity-%23F03E2F.svg?style=for-the-badge&logo=sanity&logoColor=white)
-
-### 🗄 Databases
-
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![GROQ](https://img.shields.io/badge/groq-%23F03E2F.svg?style=for-the-badge&logo=groq&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🖥️ Environment
-
-![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![VS Code](https://img.shields.io/badge/visual_studio_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-
-### 📈 Project Management
-
-![Notion](https://img.shields.io/badge/notion-black.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeanDes-Code&theme=tokyonight&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
 
