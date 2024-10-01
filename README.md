@@ -34,13 +34,7 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 
-
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JeanDes-Code&theme=tokyonight&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23&title_color=Jean%27s+Github+Stats&number_format=long&custom_title=Jean%27s+Github+Stats&show=" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=JeanDes-Code&theme=tokyonight&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200&exclude_days=Sun%2CSat" alt="GitHub streak Card" />
-</p>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeanDes-Code&theme=tokyonight&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeanDes-Code&theme=tokyonight&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
