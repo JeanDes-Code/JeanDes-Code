@@ -20,7 +20,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **Developing a music learning gaming platform using React Native (web, iOS, Android)**
-- 🌱 I'm currently learning: **Three.js and FPS-optimized animations**
+- 🌱 I'm currently learning: **Three.js** (following the <a href='https://threejs-journey.com/' target='_blank' >Three.js Journey</a>)
 - 💬 Ask me about: **Next.js, React Native, React Native Skia, TailwindCSS/Nativewind**
 - ⚡ Fun fact: **I debug by talking to a rubber duck... in my TTRPG character's voice. Yes, it helps!**
 - 📂 Portfolio: **<a href="https://www.jean-desauw.fr" target="_blank">https://www.jean-desauw.fr</a>**
