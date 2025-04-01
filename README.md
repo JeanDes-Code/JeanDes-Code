@@ -2,37 +2,57 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=JeanDes-Code&label=Profile%20views&color=0e75b6&style=flat)
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Jean 
-      </h1>
-    </summary>
-  </ul>
-</div>
+# 👋 Hi, I’m Jean Desauw – The Digital Alchemist 🧙‍♂️
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/JeanDes-Code" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/jean-desauw" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/jeandescode" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+Welcome to my GitHub! I’m a freelance developer who blends creativity and technical expertise to craft **scalable SaaS solutions** and **AI-powered tools** that solve real-world problems. With a passion for storytelling and problem-solving, I transform ideas into intuitive, impactful digital experiences.
 
- **<h3 align="left">Fullstack developer by trade, digital alchemist by nature. I turn lines of code into sleek, powerful web and mobile applications, with JavaScript as my wand and React as my spellbook. Whether it's an app to bring music to life or a platform that transforms how businesses work, I thrive on building experiences that are as intuitive as they are innovative.</h3>**
+## 🛠️ My Tech Stack
 
-**<h3 align="left">Rapid Fire</h3>**
+Here are the tools I use to bring ideas to life:
 
-- 💼 I'm currently working on: **Developing a music learning gaming platform using React Native (web, iOS, Android)**
-- 🌱 I'm currently learning: **Three.js** (following the <a href='https://threejs-journey.com/' target='_blank' >Three.js Journey</a>)
-- 💬 Ask me about: **Next.js, React Native, React Native Skia, TailwindCSS/Nativewind**
-- ⚡ Fun fact: **I debug by talking to a rubber duck... in my TTRPG character's voice. Yes, it helps!**
-- 📂 Portfolio: **<a href="https://www.jean-desauw.fr" target="_blank">https://www.jean-desauw.fr</a>**
-- 📝 Blog: **<a href="https://www.jean-desauw.fr/blog" target="_blank">https://www.jean-desauw.fr/blog</a>**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
- **<h3 align="left">Skills</h3>**
+## ✨ What I Do
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="28" alt="Prisma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GSAP-00D084?logo=gsap&logoColor=white" height="28" alt="GSAP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Sequelize-2D3748?logo=sequelize&logoColor=white" height="28" alt="Sequelize" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" height="28" alt="React Native" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="28" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" height="28" alt="Supabase" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="28" alt="Firebase" style="margin-right: 4px"> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="28" alt="SQLite" style="margin-right: 4px"></div>
+- **SaaS Development**: I specialize in building scalable, cross-platform SaaS platforms that empower businesses and elevate user experiences.
+- **AI Integration**: I create smarter solutions by integrating AI into SaaS products, automating processes, and enhancing functionality.
+- **Creative Problem-Solving**: Whether it’s a music learning platform or a business tool, I approach every project with empathy, creativity, and a user-first mindset.
 
- **<h3 align="left">GitHub Stats</h3>**
+## 🌟 Featured Projects
 
+What I'm working on currently:
+
+- 🎵 **Music Learning Platform**: A React Native web and mobile app that helps users learn music interactively.
+- 🧙‍♂️ **A SaaS Platform for TTRPG Players**: A SaaS platform that uses AI to create immersive, interconnected stories.
+- 🌌 **Gamified Business Tracker App**: A gamified productivity app for solopreneurs to track business growth, defeat procrastination, and earn XP by completion AI-Guided tasks.
+
+Check out more of my work in the [Repositories](https://github.com/JeanDes-Code?tab=repositories) section!
+
+
+## 📖 My Story
+
+I’m not just a developer—I’m a **Digital Alchemist**. My passion lies in transforming ideas into digital tools that solve real problems, tell stories, and leave a lasting impact. Whether it’s helping someone learn music, streamlining business processes, or building platforms that connect people, I thrive on creating tools that are both functional and meaningful.
+
+When I’m not coding, you’ll find me drawing inspiration from **music**, **gaming**, and **storytelling**—all of which fuel my creativity and help me approach development with fresh perspectives.
+
+
+## 📬 Let’s Connect!
+
+I’m always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out:
+
+- 🌐 [Portfolio](https://www.jean-desauw.fr)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jean-desauw/)
+- 📧 Email: [jean.desauw@gmail.com](mailto:desauwjean@gmail.com)
+
+Let’s build something extraordinary together! 🚀
 
 <p align="left">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeanDes-Code&theme=tokyonight&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
