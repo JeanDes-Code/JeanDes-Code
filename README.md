@@ -10,7 +10,7 @@
 
 [![Website](https://img.shields.io/badge/Portfolio-0A1628?style=for-the-badge&logo=safari&logoColor=00D9FF)](https://www.jean-desauw.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1628?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/jean-desauw/)
-[![Email](https://img.shields.io/badge/Email-0A1628?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:jean.desauw@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0A1628?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:desauwjean@gmail.com)
 
 </div>
 
@@ -32,14 +32,14 @@ I work directly with **CTOs and technical founders** to accelerate complex mobil
 
 **Lead React Native Engineer** at [Odisei Music](https://odiseimusic.com/)
 
-A revolutionary music learning application featuring real-time AI feedback and interactive learning paths for saxophone players.
+A revolutionary music learning application featuring real-time MIDI feedback with a Guitar Hero-like interface for saxophone players using the Travel Sax 2.
 
 **Technical Challenges Solved:**
-- Real-time audio processing & note detection
-- AI-powered feedback system with minimal latency
-- Complex interactive music notation display
+- Real-time MIDI note detection via Bluetooth
+- Guitar Hero-style visual feedback interface
+- MIDI partition sync with precise timing
 - Cross-platform performance optimization
-- Seamless synchronization with backing tracks
+- Seamless Travel Sax 2 integration
 
 </td>
 <td width="50%">
