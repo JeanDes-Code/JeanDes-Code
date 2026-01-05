@@ -1,60 +1,111 @@
-![👋 Hi, my name is Jean ](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=JeanDes-Code&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=JeanDes-Code&label=Profile%20views&color=00D9FF&style=flat)
 
-# 👋 Hi, I’m Jean Desauw – The Digital Alchemist 🧙‍♂️
+# Jean Desauw
 
-Welcome to my GitHub! I’m a freelance developer who blends creativity and technical expertise to craft **scalable SaaS solutions** and **AI-powered tools** that solve real-world problems. With a passion for storytelling and problem-solving, I transform ideas into intuitive, impactful digital experiences.
+### Lead React Native Engineer
 
-## 🛠️ My Tech Stack
+**Building world-class mobile experiences for innovative products**
 
-Here are the tools I use to bring ideas to life:
+[![Website](https://img.shields.io/badge/Portfolio-0A1628?style=for-the-badge&logo=safari&logoColor=00D9FF)](https://www.jean-desauw.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1628?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/jean-desauw/)
+[![Email](https://img.shields.io/badge/Email-0A1628?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:jean.desauw@gmail.com)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+</div>
 
+---
 
-## ✨ What I Do
+## About
 
-- **SaaS Development**: I specialize in building scalable, cross-platform SaaS platforms that empower businesses and elevate user experiences.
-- **AI Integration**: I create smarter solutions by integrating AI into SaaS products, automating processes, and enhancing functionality.
-- **Creative Problem-Solving**: Whether it’s a music learning platform or a business tool, I approach every project with empathy, creativity, and a user-first mindset.
+I'm a **Lead React Native Engineer** specializing in high-performance mobile applications that push technical boundaries. With deep expertise in complex audio processing, real-time AI integration, and scalable mobile architecture, I transform ambitious product visions into polished, production-ready applications.
 
-## 🌟 Featured Projects
+I work directly with **CTOs and technical founders** to accelerate complex mobile projects with proven technical leadership.
 
-What I'm working on currently:
+---
 
-- 🎵 **Music Learning Platform**: A React Native web and mobile app that helps users learn music interactively.
-- 🧙‍♂️ **A SaaS Platform for TTRPG Players**: A SaaS platform that uses AI to create immersive, interconnected stories.
-- 🌌 **Gamified Business Tracker App**: A gamified productivity app for solopreneurs to track business growth, defeat procrastination, and earn XP by completion AI-Guided tasks.
+## 🎯 Featured Project: Odisei Play
 
-Check out more of my work in the [Repositories](https://github.com/JeanDes-Code?tab=repositories) section!
+<table>
+<tr>
+<td width="50%">
 
+**Lead React Native Engineer** at [Odisei Music](https://odiseimusic.com/)
 
-## 📖 My Story
+A revolutionary music learning application featuring real-time AI feedback and interactive learning paths for saxophone players.
 
-I’m not just a developer—I’m a **Digital Alchemist**. My passion lies in transforming ideas into digital tools that solve real problems, tell stories, and leave a lasting impact. Whether it’s helping someone learn music, streamlining business processes, or building platforms that connect people, I thrive on creating tools that are both functional and meaningful.
+**Technical Challenges Solved:**
+- Real-time audio processing & note detection
+- AI-powered feedback system with minimal latency
+- Complex interactive music notation display
+- Cross-platform performance optimization
+- Seamless synchronization with backing tracks
 
-When I’m not coding, you’ll find me drawing inspiration from **music**, **gaming**, and **storytelling**—all of which fuel my creativity and help me approach development with fresh perspectives.
+</td>
+<td width="50%">
 
+**Impact:**
+- ✅ Successfully launched on App Store
+- ✅ Scalable architecture for future features
+- ✅ Positive reviews highlighting smooth performance
 
-## 📬 Let’s Connect!
+**Collaboration:**
+Working directly with CTO [Kim Chouard](https://github.com/kimchouard) to architect and develop the entire mobile application.
 
-I’m always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out:
+[![App Store](https://img.shields.io/badge/App_Store-0A1628?style=for-the-badge&logo=apple&logoColor=00D9FF)](https://apps.apple.com/app/odisei-play/id6748117099)
 
-- 🌐 [Portfolio](https://www.jean-desauw.fr)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jean-desauw/)
-- 📧 Email: [jean.desauw@gmail.com](mailto:desauwjean@gmail.com)
+</td>
+</tr>
+</table>
 
-Let’s build something extraordinary together! 🚀
+---
 
-<p align="left">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeanDes-Code&theme=tokyonight&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
+## 🛠️ Technical Stack
 
+<div align="center">
+
+![React Native](https://img.shields.io/badge/React_Native-0A1628?style=for-the-badge&logo=react&logoColor=00D9FF)
+![Expo](https://img.shields.io/badge/Expo-0A1628?style=for-the-badge&logo=expo&logoColor=00D9FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A1628?style=for-the-badge&logo=typescript&logoColor=00D9FF)
+![Next.js](https://img.shields.io/badge/Next.js-0A1628?style=for-the-badge&logo=nextdotjs&logoColor=00D9FF)
+
+![Node.js](https://img.shields.io/badge/Node.js-0A1628?style=for-the-badge&logo=nodedotjs&logoColor=8B5CF6)
+![AI/ML](https://img.shields.io/badge/AI%2FML_Integration-0A1628?style=for-the-badge&logo=openai&logoColor=8B5CF6)
+![Audio](https://img.shields.io/badge/Audio_Processing-0A1628?style=for-the-badge&logo=audioboom&logoColor=8B5CF6)
+![Performance](https://img.shields.io/badge/Performance_Optimization-0A1628?style=for-the-badge&logo=lighthouse&logoColor=8B5CF6)
+
+</div>
+
+---
+
+## 💼 What I Bring
+
+| Expertise | Description |
+|-----------|-------------|
+| **React Native Development** | Production-grade mobile apps with complex features and optimal performance |
+| **Technical Leadership** | Direct collaboration with CTOs to translate product vision into scalable architecture |
+| **Real-time Features** | Audio/video processing, live data synchronization, and AI integration |
+| **Cross-platform Excellence** | Seamless experiences across iOS, Android, and web |
+
+---
+
+## � GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JeanDes-Code&theme=tokyonight&hide_title=true&show_icons=true&count_private=true&hide_border=true&bg_color=0A1628&title_color=00D9FF&icon_color=8B5CF6&text_color=FFFFFF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeanDes-Code&theme=tokyonight&hide_title=true&layout=compact&langs_count=6&hide_border=true&bg_color=0A1628&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's Build Something Great
+
+Looking to accelerate your complex mobile project with senior-level expertise?
+
+[![Contact Me](https://img.shields.io/badge/Let's_Talk-8B5CF6?style=for-the-badge&logoColor=white)](mailto:desauwjean@gmail.com)
+
+</div>
