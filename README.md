@@ -89,17 +89,6 @@ Working directly with CTO [Kim Chouard](https://github.com/kimchouard) to archit
 
 ---
 
-## � GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JeanDes-Code&theme=tokyonight&hide_title=true&show_icons=true&count_private=true&hide_border=true&bg_color=0A1628&title_color=00D9FF&icon_color=8B5CF6&text_color=FFFFFF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeanDes-Code&theme=tokyonight&hide_title=true&layout=compact&langs_count=6&hide_border=true&bg_color=0A1628&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
-
-</div>
-
----
-
 <div align="center">
 
 ### Let's Build Something Great
