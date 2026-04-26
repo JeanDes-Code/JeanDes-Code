@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/banner.svg" width="100%" alt="Jean de Sauw — Lead React Native Engineer · Audio × AI" />
+
 ![Profile views](https://komarev.com/ghpvc/?username=JeanDes-Code&label=Profile%20views&color=00D9FF&style=flat)
 
 # Jean Desauw
@@ -14,7 +16,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
 
 ## About
 
@@ -22,7 +24,7 @@ I'm a **Lead React Native Engineer** specializing in high-performance mobile app
 
 I work directly with **CTOs and technical founders** to accelerate complex mobile projects with proven technical leadership.
 
----
+<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
 
 ## 🎯 Featured Project: Odisei Play
 
@@ -58,25 +60,17 @@ Working directly with CTO [Kim Chouard](https://github.com/kimchouard) to archit
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
 
 ## 🛠️ Technical Stack
 
 <div align="center">
 
-![React Native](https://img.shields.io/badge/React_Native-0A1628?style=for-the-badge&logo=react&logoColor=00D9FF)
-![Expo](https://img.shields.io/badge/Expo-0A1628?style=for-the-badge&logo=expo&logoColor=00D9FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A1628?style=for-the-badge&logo=typescript&logoColor=00D9FF)
-![Next.js](https://img.shields.io/badge/Next.js-0A1628?style=for-the-badge&logo=nextdotjs&logoColor=00D9FF)
-
-![Node.js](https://img.shields.io/badge/Node.js-0A1628?style=for-the-badge&logo=nodedotjs&logoColor=8B5CF6)
-![AI/ML](https://img.shields.io/badge/AI%2FML_Integration-0A1628?style=for-the-badge&logo=openai&logoColor=8B5CF6)
-![Audio](https://img.shields.io/badge/Audio_Processing-0A1628?style=for-the-badge&logo=audioboom&logoColor=8B5CF6)
-![Performance](https://img.shields.io/badge/Performance_Optimization-0A1628?style=for-the-badge&logo=lighthouse&logoColor=8B5CF6)
+<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/stack-strip.svg" width="100%" alt="React · TypeScript · Next.js · Node.js · React Native · Expo · PostgreSQL · Tailwind" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
 
 ## 💼 What I Bring
 
@@ -87,7 +81,7 @@ Working directly with CTO [Kim Chouard](https://github.com/kimchouard) to archit
 | **Real-time Features** | Audio/video processing, live data synchronization, and AI integration |
 | **Cross-platform Excellence** | Seamless experiences across iOS, Android, and web |
 
----
+<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
 
 <div align="center">
 

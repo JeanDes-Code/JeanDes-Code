@@ -1,0 +1,37 @@
+<svg width="900" height="24" viewBox="0 0 900 24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#00D9FF" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#00D9FF" stop-opacity="0.9"/>
+      <stop offset="75%" stop-color="#00D9FF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#00D9FF" stop-opacity="0.12"/>
+      <stop offset="50%" stop-color="#00D9FF" stop-opacity="0.22"/>
+      <stop offset="65%" stop-color="#00D9FF" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="24" fill="#0d1117"/>
+
+  <!-- Soft glow band -->
+  <rect x="0" y="8" width="900" height="8" fill="url(#glowGrad)"/>
+
+  <!-- Main line -->
+  <rect x="0" y="11" width="900" height="1.5" fill="url(#lineGrad)"/>
+
+  <!-- Center diamond -->
+  <rect x="442" y="7" width="12" height="12"
+        transform="rotate(45 448 13)"
+        fill="#0d1117" stroke="#00D9FF" stroke-width="1.5" stroke-opacity="0.85"/>
+
+  <!-- Center diamond inner fill -->
+  <rect x="445" y="10" width="6" height="6"
+        transform="rotate(45 448 13)"
+        fill="#00D9FF" fill-opacity="0.35"/>
+</svg>

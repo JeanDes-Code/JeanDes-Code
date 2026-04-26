@@ -1,0 +1,63 @@
+<svg width="900" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="edgeFadeL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="edgeFadeR" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="topLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#00D9FF" stop-opacity="0.3"/>
+      <stop offset="85%" stop-color="#00D9FF" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="80" fill="#0d1117"/>
+
+  <!-- Top separator line -->
+  <rect x="0" y="0" width="900" height="1" fill="url(#topLine)"/>
+  <!-- Bottom separator line -->
+  <rect x="0" y="79" width="900" height="1" fill="url(#topLine)"/>
+
+  <!-- Badge group — 8 tech pills, evenly distributed -->
+  <!-- React — x=18 w=84 -->
+  <rect x="18" y="25" width="84" height="30" rx="15" fill="#00D9FF" fill-opacity="0.05" stroke="#00D9FF" stroke-width="1" stroke-opacity="0.45"/>
+  <text x="60" y="45" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="500" fill="#00D9FF" fill-opacity="0.9" text-anchor="middle">React</text>
+
+  <!-- TypeScript — x=114 w=108 -->
+  <rect x="114" y="25" width="108" height="30" rx="15" fill="#00D9FF" fill-opacity="0.05" stroke="#00D9FF" stroke-width="1" stroke-opacity="0.45"/>
+  <text x="168" y="45" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="500" fill="#00D9FF" fill-opacity="0.9" text-anchor="middle">TypeScript</text>
+
+  <!-- Next.js — x=234 w=86 -->
+  <rect x="234" y="25" width="86" height="30" rx="15" fill="#00D9FF" fill-opacity="0.05" stroke="#00D9FF" stroke-width="1" stroke-opacity="0.45"/>
+  <text x="277" y="45" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="500" fill="#00D9FF" fill-opacity="0.9" text-anchor="middle">Next.js</text>
+
+  <!-- Node.js — x=332 w=86 -->
+  <rect x="332" y="25" width="86" height="30" rx="15" fill="#00D9FF" fill-opacity="0.05" stroke="#00D9FF" stroke-width="1" stroke-opacity="0.45"/>
+  <text x="375" y="45" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="500" fill="#00D9FF" fill-opacity="0.9" text-anchor="middle">Node.js</text>
+
+  <!-- React Native — x=430 w=116 -->
+  <rect x="430" y="25" width="116" height="30" rx="15" fill="#00D9FF" fill-opacity="0.05" stroke="#00D9FF" stroke-width="1" stroke-opacity="0.45"/>
+  <text x="488" y="45" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="500" fill="#00D9FF" fill-opacity="0.9" text-anchor="middle">React Native</text>
+
+  <!-- Expo — x=558 w=72 -->
+  <rect x="558" y="25" width="72" height="30" rx="15" fill="#00D9FF" fill-opacity="0.05" stroke="#00D9FF" stroke-width="1" stroke-opacity="0.45"/>
+  <text x="594" y="45" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="500" fill="#00D9FF" fill-opacity="0.9" text-anchor="middle">Expo</text>
+
+  <!-- PostgreSQL — x=642 w=106 -->
+  <rect x="642" y="25" width="106" height="30" rx="15" fill="#00D9FF" fill-opacity="0.05" stroke="#00D9FF" stroke-width="1" stroke-opacity="0.45"/>
+  <text x="695" y="45" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="500" fill="#00D9FF" fill-opacity="0.9" text-anchor="middle">PostgreSQL</text>
+
+  <!-- Tailwind — x=760 w=90 -->
+  <rect x="760" y="25" width="90" height="30" rx="15" fill="#00D9FF" fill-opacity="0.05" stroke="#00D9FF" stroke-width="1" stroke-opacity="0.45"/>
+  <text x="805" y="45" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="13" font-weight="500" fill="#00D9FF" fill-opacity="0.9" text-anchor="middle">Tailwind</text>
+
+  <!-- Edge fades -->
+  <rect x="0" y="0" width="16" height="80" fill="url(#edgeFadeL)"/>
+  <rect x="852" y="0" width="48" height="80" fill="url(#edgeFadeR)"/>
+</svg>
