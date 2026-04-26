@@ -6,9 +6,9 @@
 
 # Jean Desauw
 
-### Lead React Native Engineer
+### Lead React Native Engineer · Audio × AI
 
-**Building world-class mobile experiences for innovative products**
+**Senior mobile engineer for technical founders who ship at Series A/B pace.**
 
 [![Website](https://img.shields.io/badge/Portfolio-0A1628?style=for-the-badge&logo=safari&logoColor=00D9FF)](https://www.jean-desauw.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1628?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/jean-desauw/)
@@ -20,13 +20,15 @@
 
 ## About
 
-I'm a **Lead React Native Engineer** specializing in high-performance mobile applications that push technical boundaries. With deep expertise in complex audio processing, real-time AI integration, and scalable mobile architecture, I transform ambitious product visions into polished, production-ready applications.
+I build production React Native apps where the hard problems are the point — real-time audio pipelines, Bluetooth MIDI devices, AI inference, sub-50ms feedback loops.
 
-I work directly with **CTOs and technical founders** to accelerate complex mobile projects with proven technical leadership.
+Currently **Lead React Native Engineer at [Odisei Music](https://odiseimusic.com/)** — a music-tech product that connects saxophonists to a Guitar Hero-like learning experience via Bluetooth hardware. I own the full mobile stack: BLE communication, MIDI processing, AI-assisted feedback, and App Store delivery.
+
+Before that: 6+ years across Series A and B products, working directly with CTOs on architecture, team mentorship, and cross-platform performance.
 
 <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
 
-## 🎯 Featured Project: Odisei Play
+## 🎵 Featured: Odisei Play
 
 <table>
 <tr>
@@ -34,25 +36,24 @@ I work directly with **CTOs and technical founders** to accelerate complex mobil
 
 **Lead React Native Engineer** at [Odisei Music](https://odiseimusic.com/)
 
-A revolutionary music learning application featuring real-time MIDI feedback with a Guitar Hero-like interface for saxophone players using the Travel Sax 2.
+Music learning app with real-time MIDI feedback and a Guitar Hero-style interface for Travel Sax 2 players.
 
-**Technical Challenges Solved:**
-- Real-time MIDI note detection via Bluetooth
-- Guitar Hero-style visual feedback interface
-- MIDI partition sync with precise timing
+**Hard problems solved:**
+- Real-time MIDI note detection over Bluetooth (BLE)
+- Guitar Hero-style visual feedback at <50ms latency
+- MIDI partition sync with frame-accurate timing
+- Seamless Travel Sax 2 hardware integration
 - Cross-platform performance optimization
-- Seamless Travel Sax 2 integration
 
 </td>
 <td width="50%">
 
-**Impact:**
-- ✅ Successfully launched on App Store
-- ✅ Scalable architecture for future features
-- ✅ Positive reviews highlighting smooth performance
+**Shipped:**
+- ✅ Live on App Store
+- ✅ Scalable architecture supporting rapid feature iteration
+- ✅ CTO-facing delivery with full architecture ownership
 
-**Collaboration:**
-Working directly with CTO [Kim Chouard](https://github.com/kimchouard) to architect and develop the entire mobile application.
+**Stack:** React Native · Expo · TypeScript · BLE · MIDI · AI
 
 [![App Store](https://img.shields.io/badge/App_Store-0A1628?style=for-the-badge&logo=apple&logoColor=00D9FF)](https://apps.apple.com/app/odisei-play/id6748117099)
 
@@ -72,22 +73,22 @@ Working directly with CTO [Kim Chouard](https://github.com/kimchouard) to archit
 
 <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
 
-## 💼 What I Bring
+## 💼 What I Ship
 
-| Expertise | Description |
-|-----------|-------------|
-| **React Native Development** | Production-grade mobile apps with complex features and optimal performance |
-| **Technical Leadership** | Direct collaboration with CTOs to translate product vision into scalable architecture |
-| **Real-time Features** | Audio/video processing, live data synchronization, and AI integration |
-| **Cross-platform Excellence** | Seamless experiences across iOS, Android, and web |
+| Domain | Reality |
+|--------|---------|
+| **Audio × AI** | Real-time MIDI pipelines, BLE device integration, AI inference on mobile and server-side |
+| **React Native / Expo** | Production apps from zero to App Store, complex animations, performance budgets |
+| **Architecture** | Scalable mobile architecture for fast-moving Series A/B products |
+| **Technical Leadership** | CTO-facing ownership: roadmap, code reviews, team mentorship, cross-platform strategy |
 
 <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
 
 <div align="center">
 
-### Let's Build Something Great
+### Let's work on something hard
 
-Looking to accelerate your complex mobile project with senior-level expertise?
+Looking to move fast on a complex mobile product?
 
 [![Contact Me](https://img.shields.io/badge/Let's_Talk-8B5CF6?style=for-the-badge&logoColor=white)](mailto:desauwjean@gmail.com)
 
