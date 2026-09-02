@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/banner.svg" width="100%" alt="Jean de Sauw — Lead React Native Engineer · Audio × AI" />
+<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/banner.svg" width="100%" alt="Jean Desauw | React Native Engineer · Agentic Practitioner" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=JeanDes-Code&label=Profile%20views&color=00D9FF&style=flat)
 
 # Jean Desauw
 
-### Lead React Native Engineer · Audio × AI
+### React Native Engineer · Agentic Practitioner
 
-**Senior mobile engineer for technical founders who ship at Series A/B pace.**
+**I build React Native in production. I pilot AI agents on the same code.**
 
 [![Website](https://img.shields.io/badge/Portfolio-0A1628?style=for-the-badge&logo=safari&logoColor=00D9FF)](https://www.jean-desauw.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1628?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/jean-desauw/)
@@ -16,19 +16,23 @@
 
 </div>
 
+> **Available for a new contract.** React Native / Expo / TypeScript, with agentic delivery. [See my services](https://www.jean-desauw.fr).
+
 <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
 
 ## About
 
-I build production React Native apps where the hard problems are the point — real-time audio pipelines, Bluetooth MIDI devices, AI inference, sub-50ms feedback loops.
+I build production React Native apps where the hard problems are the point: real-time audio, Bluetooth hardware, on-device AI, sub-50ms feedback loops.
 
-Currently **Lead React Native Engineer at [Odisei Music](https://odiseimusic.com/)** — a music-tech product that connects saxophonists to a Guitar Hero-like learning experience via Bluetooth hardware. I own the full mobile stack: BLE communication, MIDI processing, AI-assisted feedback, and App Store delivery.
+I came from audiovisual engineering and taught myself to code. That background is why I end up on products where the hardware and the interface have to talk to each other.
 
-Before that: 6+ years across Series A and B products, working directly with CTOs on architecture, team mentorship, and cross-platform performance.
+Most recently I was the lead React Native engineer behind [Odisei Play](https://apps.apple.com/app/odisei-play/id6748117099), a music learning app live on the App Store: MIDI over Bluetooth, Guitar Hero-style feedback under 50ms, a two-person team and full ownership of the mobile stack.
+
+Since 2024 I have been piloting coding agents ([Claude Code](https://www.anthropic.com/claude-code)) on that same production codebase. The specs, reviews and shipping decisions stay mine. The agents do the heavy lifting. I write about the method on my [blog](https://www.jean-desauw.fr/blog).
 
 <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
 
-## 🎵 Featured: Odisei Play
+## 🎵 Case study: Odisei Play
 
 <table>
 <tr>
@@ -77,19 +81,27 @@ Music learning app with real-time MIDI feedback and a Guitar Hero-style interfac
 
 | Domain | Reality |
 |--------|---------|
-| **Audio × AI** | Real-time MIDI pipelines, BLE device integration, AI inference on mobile and server-side |
-| **React Native / Expo** | Production apps from zero to App Store, complex animations, performance budgets |
-| **Architecture** | Scalable mobile architecture for fast-moving Series A/B products |
-| **Technical Leadership** | CTO-facing ownership: roadmap, code reviews, team mentorship, cross-platform strategy |
+| **React Native / Expo** | Production apps from zero to the App Store: complex animations, performance budgets, BLE and on-device AI |
+| **Audio × AI** | Real-time MIDI pipelines, Bluetooth device integration, AI inference on mobile and server-side |
+| **Agentic delivery** | Claude Code as a main developer on production code: spec-first workflow, review gates, the human keeps the decisions |
+| **Architecture & leadership** | CTO-facing ownership: roadmap, code reviews, cross-platform strategy |
+
+<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
+
+## 📦 Open source
+
+- [sneq-narrative-system](https://github.com/JeanDes-Code/sneq-narrative-system): narrative-state engine for AI-narrated games. Stops the LLM from forgetting or forking canonical reality. TypeScript, SQLite + sqlite-vec.
+- High-signal bug reproductions for the React Native / Expo ecosystem: Fabric view-recycling touch-dead, LegendList sticky headers on web, Skia + WebGPUView conflicts. Minimal repros filed to help maintainers fix real issues.
 
 <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
 
 <div align="center">
 
-### Let's work on something hard
+### Let's build
 
-Looking to move fast on a complex mobile product?
+Available for a new contract. React Native, Expo, TypeScript, agentic delivery.
 
-[![Contact Me](https://img.shields.io/badge/Let's_Talk-8B5CF6?style=for-the-badge&logoColor=white)](mailto:desauwjean@gmail.com)
+[![Services](https://img.shields.io/badge/Services-0A1628?style=for-the-badge&logo=safari&logoColor=00D9FF)](https://www.jean-desauw.fr)
+[![Contact Me](https://img.shields.io/badge/Contact_Me-8B5CF6?style=for-the-badge&logoColor=white)](mailto:desauwjean@gmail.com)
 
 </div>
