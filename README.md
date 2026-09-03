@@ -6,15 +6,13 @@
   <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/banner-dark.svg" width="100%" alt="Jean Desauw — React Native Engineer · Agentic Practitioner" />
 </picture>
 
-![Profile views](https://komarev.com/ghpvc/?username=JeanDes-Code&label=Profile%20views&color=D7A44D&style=flat)
-
 # Jean Desauw
 
 **I build React Native in production. I pilot AI agents on the same code.**
 
 [![Website](https://img.shields.io/badge/Portfolio-13100D?style=for-the-badge&logo=safari&logoColor=D7A44D)](https://www.jean-desauw.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-13100D?style=for-the-badge&logo=linkedin&logoColor=D7A44D)](https://www.linkedin.com/in/jean-desauw/)
-[![Email](https://img.shields.io/badge/Email-13100D?style=for-the-badge&logo=gmail&logoColor=D7A44D)](mailto:desauwjean@gmail.com)
+[![Email](https://img.shields.io/badge/Email-13100D?style=for-the-badge&logoColor=D7A44D)](mailto:contact@jean-desauw.fr)
 
 </div>
 
@@ -125,6 +123,6 @@ This is the setup running on Odisei Play, where the designer works in Storybook,
 Available from 1 October 2026. React Native, Expo, TypeScript, agentic delivery. Full remote.
 
 [![Services](https://img.shields.io/badge/Services-13100D?style=for-the-badge&logo=safari&logoColor=D7A44D)](https://www.jean-desauw.fr/services)
-[![Contact Me](https://img.shields.io/badge/Contact_Me-AD6800?style=for-the-badge&logoColor=white)](mailto:desauwjean@gmail.com)
+[![Contact Me](https://img.shields.io/badge/Contact_Me-AD6800?style=for-the-badge&logoColor=white)](mailto:contact@jean-desauw.fr)
 
 </div>
