@@ -22,11 +22,11 @@
 
 ## About
 
-I build production React Native apps where the hard problems are the point: real-time audio, Bluetooth hardware, on-device AI, sub-50ms feedback loops.
+I build production React Native apps where the hard problems are the point: real-time audio, Bluetooth hardware, live MIDI, on-device AI.
 
 I came from audiovisual engineering and taught myself to code. That background is why I end up on products where the hardware and the interface have to talk to each other.
 
-Most recently I was the lead React Native engineer behind [Odisei Play](https://apps.apple.com/app/odisei-play/id6748117099), a music learning app live on the App Store: MIDI over Bluetooth, Guitar Hero-style feedback under 50ms, a two-person team and full ownership of the mobile stack.
+Most recently I was the lead React Native engineer behind [Odisei Play](https://apps.apple.com/app/odisei-play/id6748117099), the companion app for the Travel Sax, an electronic saxophone: video courses, play-along songs and practice tools that react live to what you play, streamed from the instrument over Bluetooth MIDI. One React Native codebase, three platforms, a two-engineer team.
 
 Since 2024 I have been piloting coding agents ([Claude Code](https://www.anthropic.com/claude-code)) on that same production codebase. The specs, reviews and shipping decisions stay mine. The agents do the heavy lifting. I write about the method on my [blog](https://www.jean-desauw.fr/blog).
 
@@ -38,27 +38,32 @@ Since 2024 I have been piloting coding agents ([Claude Code](https://www.anthrop
 <tr>
 <td width="50%">
 
-**Lead React Native Engineer** at [Odisei Music](https://odiseimusic.com/)
+**Lead React Native Engineer** at [Odisei Music](https://odiseimusic.com/) · 2024 to present
 
-Music learning app with real-time MIDI feedback and a Guitar Hero-style interface for Travel Sax 2 players.
+Companion app for the Travel Sax, an electronic saxophone. Video courses, play-along songs and practice tools that react live to what you play over Bluetooth MIDI. One React Native codebase on iOS, Android and web.
 
-**Hard problems solved:**
-- Real-time MIDI note detection over Bluetooth (BLE)
-- Guitar Hero-style visual feedback at <50ms latency
-- MIDI partition sync with frame-accurate timing
-- Seamless Travel Sax 2 hardware integration
-- Cross-platform performance optimization
+**What I built and own:**
+- Device connectivity: scanning, pairing, MIDI-over-Bluetooth parsing, reconnection, with arbitration across Bluetooth, USB and audio input
+- A web Bluetooth implementation, so the browser version connects to the instrument like the native apps do
+- The learning experience: interactive video checkpoints that wait for you to actually play, and a post-session state machine sequencing awards, streaks and goals
+- The monorepo migration: the app plus ten shared packages, a design-token pipeline, a Storybook design system
+- The agentic infrastructure: per-package CLAUDE.md files, single-source-of-truth rules, custom skills and hooks. The whole team, designer included, works with Claude Code on top of it
+
+**What I did not build:** the audio engine, the pitch detection and the core playing screen are the CTO's work. I built most of what surrounds them.
 
 </td>
 <td width="50%">
 
 **Shipped:**
-- ✅ Live on App Store
-- ✅ Scalable architecture supporting rapid feature iteration
-- ✅ CTO-facing delivery with full architecture ownership
+- ✅ Live on iOS, Android and web from one React Native codebase
+- ✅ 5,370 of 14,179 commits in the repo (38%), in a codebase already a year old when I joined
+- ✅ Bi-weekly release train with over-the-air patches in between
+- ✅ 150+ screens, 24 feature modules, a design system of 340+ components in Storybook
+- ✅ Two engineers, one designer and a few AI agents shipping like a much bigger team
 
-**Stack:** React Native · Expo · TypeScript · BLE · MIDI · AI
+**Stack:** React Native · Expo · TypeScript · Supabase · BLE
 
+[![Visit live site](https://img.shields.io/badge/Visit_live_site-0A1628?style=for-the-badge&logo=appstore&logoColor=00D9FF)](https://odiseimusic.com/odisei-play/)
 [![App Store](https://img.shields.io/badge/App_Store-0A1628?style=for-the-badge&logo=apple&logoColor=00D9FF)](https://apps.apple.com/app/odisei-play/id6748117099)
 
 </td>
@@ -82,9 +87,9 @@ Music learning app with real-time MIDI feedback and a Guitar Hero-style interfac
 | Domain | Reality |
 |--------|---------|
 | **React Native / Expo** | Production apps from zero to the App Store: complex animations, performance budgets, BLE and on-device AI |
-| **Audio × AI** | Real-time MIDI pipelines, Bluetooth device integration, AI inference on mobile and server-side |
+| **Audio × hardware** | Real-time MIDI pipelines, Bluetooth device connectivity across native and web |
 | **Agentic delivery** | Claude Code as a main developer on production code: spec-first workflow, review gates, the human keeps the decisions |
-| **Architecture & leadership** | CTO-facing ownership: roadmap, code reviews, cross-platform strategy |
+| **Architecture & leadership** | CTO-facing ownership: monorepos, design systems, roadmap, code reviews |
 
 <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
 
