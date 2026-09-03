@@ -16,7 +16,7 @@
 
 </div>
 
-> **Available for a new contract.** React Native / Expo / TypeScript, with agentic delivery. [See my services](https://www.jean-desauw.fr).
+> **Available from 1 October 2026.** React Native / Expo / TypeScript, full remote, with agentic delivery. [See my services](https://www.jean-desauw.fr/services).
 
 <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
 
@@ -93,6 +93,18 @@ Companion app for the Travel Sax, an electronic saxophone. Video courses, play-a
 
 <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
 
+## 🧩 A repo your agents can read
+
+Two people do not ship a product this size every two weeks unless the codebase itself is doing part of the work. That is the second thing I install on a contract. It acts on your repo, not on your developers — I am not there to teach your team to prompt.
+
+- **One CLAUDE.md per package.** The agent loads the context of the module it works in, not the whole repo.
+- **Rules in one place.** You change a convention once, every agent follows it.
+- **Skills and hooks written for your repo.** What has to be checked before a commit gets checked without you.
+
+This is the setup running on Odisei Play, where the designer works in Storybook, on shared design tokens, with an agent. [How it works](https://www.jean-desauw.fr/services).
+
+<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
+
 ## 📦 Open source
 
 - [sneq-narrative-system](https://github.com/JeanDes-Code/sneq-narrative-system): narrative-state engine for AI-narrated games. Stops the LLM from forgetting or forking canonical reality. TypeScript, SQLite + sqlite-vec.
@@ -104,9 +116,9 @@ Companion app for the Travel Sax, an electronic saxophone. Video courses, play-a
 
 ### Let's build
 
-Available for a new contract. React Native, Expo, TypeScript, agentic delivery.
+Available from 1 October 2026. React Native, Expo, TypeScript, agentic delivery. Full remote.
 
-[![Services](https://img.shields.io/badge/Services-0A1628?style=for-the-badge&logo=safari&logoColor=00D9FF)](https://www.jean-desauw.fr)
+[![Services](https://img.shields.io/badge/Services-0A1628?style=for-the-badge&logo=safari&logoColor=00D9FF)](https://www.jean-desauw.fr/services)
 [![Contact Me](https://img.shields.io/badge/Contact_Me-8B5CF6?style=for-the-badge&logoColor=white)](mailto:desauwjean@gmail.com)
 
 </div>
