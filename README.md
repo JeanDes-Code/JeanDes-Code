@@ -1,24 +1,26 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/banner.svg" width="100%" alt="Jean Desauw | React Native Engineer · Agentic Practitioner" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/banner-light.svg" />
+  <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/banner-dark.svg" width="100%" alt="Jean Desauw — React Native Engineer · Agentic Practitioner" />
+</picture>
 
-![Profile views](https://komarev.com/ghpvc/?username=JeanDes-Code&label=Profile%20views&color=00D9FF&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=JeanDes-Code&label=Profile%20views&color=D7A44D&style=flat)
 
 # Jean Desauw
 
-### React Native Engineer · Agentic Practitioner
-
 **I build React Native in production. I pilot AI agents on the same code.**
 
-[![Website](https://img.shields.io/badge/Portfolio-0A1628?style=for-the-badge&logo=safari&logoColor=00D9FF)](https://www.jean-desauw.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A1628?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/jean-desauw/)
-[![Email](https://img.shields.io/badge/Email-0A1628?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:desauwjean@gmail.com)
+[![Website](https://img.shields.io/badge/Portfolio-13100D?style=for-the-badge&logo=safari&logoColor=D7A44D)](https://www.jean-desauw.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-13100D?style=for-the-badge&logo=linkedin&logoColor=D7A44D)](https://www.linkedin.com/in/jean-desauw/)
+[![Email](https://img.shields.io/badge/Email-13100D?style=for-the-badge&logo=gmail&logoColor=D7A44D)](mailto:desauwjean@gmail.com)
 
 </div>
 
 > **Available from 1 October 2026.** React Native / Expo / TypeScript, full remote, with agentic delivery. [See my services](https://www.jean-desauw.fr/services).
 
-<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/rule.svg" width="100%" alt="" />
 
 ## About
 
@@ -30,7 +32,7 @@ Most recently I was the lead React Native engineer behind [Odisei Play](https://
 
 Since 2024 I have been piloting coding agents ([Claude Code](https://www.anthropic.com/claude-code)) on that same production codebase. The specs, reviews and shipping decisions stay mine. The agents do the heavy lifting. I write about the method on my [blog](https://www.jean-desauw.fr/blog).
 
-<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/rule.svg" width="100%" alt="" />
 
 ## 🎵 Case study: Odisei Play
 
@@ -63,24 +65,28 @@ Companion app for the Travel Sax, an electronic saxophone. Video courses, play-a
 
 **Stack:** React Native · Expo · TypeScript · Supabase · BLE
 
-[![Visit live site](https://img.shields.io/badge/Visit_live_site-0A1628?style=for-the-badge&logo=appstore&logoColor=00D9FF)](https://odiseimusic.com/odisei-play/)
-[![App Store](https://img.shields.io/badge/App_Store-0A1628?style=for-the-badge&logo=apple&logoColor=00D9FF)](https://apps.apple.com/app/odisei-play/id6748117099)
+[![Visit live site](https://img.shields.io/badge/Visit_live_site-13100D?style=for-the-badge&logo=appstore&logoColor=D7A44D)](https://odiseimusic.com/odisei-play/)
+[![App Store](https://img.shields.io/badge/App_Store-13100D?style=for-the-badge&logo=apple&logoColor=D7A44D)](https://apps.apple.com/app/odisei-play/id6748117099)
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/rule.svg" width="100%" alt="" />
 
 ## 🛠️ Technical Stack
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/stack-strip.svg" width="100%" alt="React · TypeScript · Next.js · Node.js · React Native · Expo · PostgreSQL · Tailwind" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/stack-light.svg" />
+  <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/stack-dark.svg" width="100%" alt="React Native · Expo · TypeScript · Reanimated · BLE · Supabase · Next.js · Claude Code" />
+</picture>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/rule.svg" width="100%" alt="" />
 
 ## 💼 What I Ship
 
@@ -91,7 +97,7 @@ Companion app for the Travel Sax, an electronic saxophone. Video courses, play-a
 | **Agentic delivery** | Claude Code as a main developer on production code: spec-first workflow, review gates, the human keeps the decisions |
 | **Architecture & leadership** | CTO-facing ownership: monorepos, design systems, roadmap, code reviews |
 
-<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/rule.svg" width="100%" alt="" />
 
 ## 🧩 A repo your agents can read
 
@@ -103,14 +109,14 @@ Two people do not ship a product this size every two weeks unless the codebase i
 
 This is the setup running on Odisei Play, where the designer works in Storybook, on shared design tokens, with an agent. [How it works](https://www.jean-desauw.fr/services).
 
-<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/rule.svg" width="100%" alt="" />
 
 ## 📦 Open source
 
 - [sneq-narrative-system](https://github.com/JeanDes-Code/sneq-narrative-system): narrative-state engine for AI-narrated games. Stops the LLM from forgetting or forking canonical reality. TypeScript, SQLite + sqlite-vec.
 - High-signal bug reproductions for the React Native / Expo ecosystem: Fabric view-recycling touch-dead, LegendList sticky headers on web, Skia + WebGPUView conflicts. Minimal repros filed to help maintainers fix real issues.
 
-<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/section-divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/rule.svg" width="100%" alt="" />
 
 <div align="center">
 
@@ -118,7 +124,7 @@ This is the setup running on Odisei Play, where the designer works in Storybook,
 
 Available from 1 October 2026. React Native, Expo, TypeScript, agentic delivery. Full remote.
 
-[![Services](https://img.shields.io/badge/Services-0A1628?style=for-the-badge&logo=safari&logoColor=00D9FF)](https://www.jean-desauw.fr/services)
-[![Contact Me](https://img.shields.io/badge/Contact_Me-8B5CF6?style=for-the-badge&logoColor=white)](mailto:desauwjean@gmail.com)
+[![Services](https://img.shields.io/badge/Services-13100D?style=for-the-badge&logo=safari&logoColor=D7A44D)](https://www.jean-desauw.fr/services)
+[![Contact Me](https://img.shields.io/badge/Contact_Me-AD6800?style=for-the-badge&logoColor=white)](mailto:desauwjean@gmail.com)
 
 </div>

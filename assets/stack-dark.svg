@@ -1,0 +1,18 @@
+<svg width="900" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="React Native · Expo · TypeScript · Reanimated · BLE · Supabase · Next.js · Claude Code">
+  <rect x="48" y="24" width="119" height="32" rx="5" fill="none" stroke="#D7A44D" stroke-width="1" stroke-opacity="0.55"/>
+  <text x="107" y="45" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#D7A44D" text-anchor="middle">React Native</text>
+  <rect x="179" y="24" width="60" height="32" rx="5" fill="none" stroke="#D7A44D" stroke-width="1" stroke-opacity="0.55"/>
+  <text x="209" y="45" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#D7A44D" text-anchor="middle">Expo</text>
+  <rect x="251" y="24" width="104" height="32" rx="5" fill="none" stroke="#D7A44D" stroke-width="1" stroke-opacity="0.55"/>
+  <text x="303" y="45" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#D7A44D" text-anchor="middle">TypeScript</text>
+  <rect x="367" y="24" width="104" height="32" rx="5" fill="none" stroke="#D7A44D" stroke-width="1" stroke-opacity="0.55"/>
+  <text x="419" y="45" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#D7A44D" text-anchor="middle">Reanimated</text>
+  <rect x="483" y="24" width="52" height="32" rx="5" fill="none" stroke="#D7A44D" stroke-width="1" stroke-opacity="0.55"/>
+  <text x="509" y="45" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#D7A44D" text-anchor="middle">BLE</text>
+  <rect x="547" y="24" width="89" height="32" rx="5" fill="none" stroke="#D7A44D" stroke-width="1" stroke-opacity="0.55"/>
+  <text x="591" y="45" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#D7A44D" text-anchor="middle">Supabase</text>
+  <rect x="648" y="24" width="82" height="32" rx="5" fill="none" stroke="#D7A44D" stroke-width="1" stroke-opacity="0.55"/>
+  <text x="689" y="45" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#D7A44D" text-anchor="middle">Next.js</text>
+  <rect x="742" y="24" width="111" height="32" rx="5" fill="none" stroke="#D7A44D" stroke-width="1" stroke-opacity="0.55"/>
+  <text x="797" y="45" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#D7A44D" text-anchor="middle">Claude Code</text>
+</svg>

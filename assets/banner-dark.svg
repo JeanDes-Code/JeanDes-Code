@@ -1,0 +1,39 @@
+<svg width="1500" height="420" viewBox="0 0 1500 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Jean Desauw — React Native Engineer, Agentic Practitioner">
+  <!-- Ground -->
+  <rect width="1500" height="420" fill="#13100D"/>
+
+  <!-- Baseline grid: quiet horizontal rules, editorial not sci-fi -->
+  <g stroke="#241F1A" stroke-width="1">
+    <line x1="0" y1="60" x2="1500" y2="60"/>
+    <line x1="0" y1="360" x2="1500" y2="360"/>
+  </g>
+
+  <!-- Left accent rule, sharp -->
+  <rect x="80" y="118" width="3" height="176" fill="#D7A44D"/>
+
+  <!-- Name -->
+  <text x="112" y="196" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="700"
+        letter-spacing="-2" fill="#EBE7E0">Jean Desauw</text>
+
+  <!-- Role -->
+  <text x="115" y="242" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600"
+        letter-spacing="4" fill="#D7A44D">REACT NATIVE ENGINEER · AGENTIC PRACTITIONER</text>
+
+  <!-- Tagline -->
+  <text x="116" y="288" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#A5A199">Production apps, real hardware, and agents on the same code.</text>
+
+  <!-- Session panel -->
+  <rect x="900" y="96" width="520" height="228" rx="5"
+        fill="#1C1814" stroke="#322D27" stroke-width="1"/>
+  <text x="924" y="128" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1"
+        fill="#A5A199">session.log — piloting, not prompting</text>
+  <line x1="900" y1="146" x2="1420" y2="146" stroke="#322D27" stroke-width="1"/>
+
+  <text x="924" y="186" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#A5A199">› read the repo, write the spec</text>
+  <text x="924" y="222" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#A5A199">› caught an edge case I'd have missed</text>
+  <text x="924" y="258" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#A5A199">› review, then merge</text>
+  <text x="924" y="294" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" font-weight="600" fill="#D7A44D">› shipped</text>
+
+  <!-- Bottom amber rule -->
+  <rect x="0" y="417" width="1500" height="3" fill="#D7A44D"/>
+</svg>
