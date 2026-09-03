@@ -111,7 +111,7 @@ This is the setup running on Odisei Play, where the designer works in Storybook,
 
 ## 📦 Open source
 
-- [sneq-narrative-system](https://github.com/JeanDes-Code/sneq-narrative-system): narrative-state engine for AI-narrated games. Stops the LLM from forgetting or forking canonical reality. TypeScript, SQLite + sqlite-vec.
+- [sneq-narrative-system](https://github.com/JeanDes-Code/sneq-narrative-system) [![npm version](https://img.shields.io/npm/v/sneq-engine?style=flat-square&labelColor=13100D&color=D7A44D)](https://www.npmjs.com/package/sneq-engine) [![npm downloads](https://img.shields.io/npm/d18m/sneq-engine?style=flat-square&labelColor=13100D&color=D7A44D)](https://www.npmjs.com/package/sneq-engine): narrative-state engine for AI-narrated games. Stops the LLM from forgetting or forking canonical reality. TypeScript, SQLite + sqlite-vec.
 - High-signal bug reproductions for the React Native / Expo ecosystem: Fabric view-recycling touch-dead, LegendList sticky headers on web, Skia + WebGPUView conflicts. Minimal repros filed to help maintainers fix real issues.
 
 <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/rule.svg" width="100%" alt="" />
