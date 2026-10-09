@@ -22,13 +22,13 @@
 
 ## About
 
-I build production React Native apps where the hard problems are the point: real-time audio, Bluetooth hardware, live MIDI, on-device AI.
+I build production React Native apps where the hard problems are the point: Bluetooth hardware and live MIDI.
 
-I came from audiovisual engineering and taught myself to code. That background is why I end up on products where the hardware and the interface have to talk to each other.
+I came from audiovisual work. I retrained as a developer in 2021 through an OpenClassrooms program, then kept learning on my own. That background is why I end up on products where the hardware and the interface have to talk to each other.
 
-Most recently I was the lead React Native engineer behind [Odisei Play](https://apps.apple.com/app/odisei-play/id6748117099), the companion app for the Travel Sax, an electronic saxophone: video courses, play-along songs and practice tools that react live to what you play, streamed from the instrument over Bluetooth MIDI. One React Native codebase, three platforms, a two-engineer team.
+Most recently I was the lead React Native engineer on [Odisei Play](https://apps.apple.com/app/odisei-play/id6748117099), the companion app for the Travel Sax, an electronic saxophone: video courses, play-along songs and practice tools that react live to what you play, streamed from the instrument over Bluetooth MIDI. One React Native codebase, three platforms, a two-engineer team.
 
-In 2024 I started piloting coding agents ([Claude Code](https://www.anthropic.com/claude-code)) on that same production codebase. The specs, reviews and shipping decisions stay mine. The agents do the heavy lifting. I write about the method on my [blog](https://www.jean-desauw.fr/blog).
+I also piloted coding agents ([Claude Code](https://www.anthropic.com/claude-code)) on that same production codebase. The specs, reviews and shipping decisions stay mine. The agents do the heavy lifting. I write about the method on my [blog](https://www.jean-desauw.fr/blog).
 
 <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/rule.svg" width="100%" alt="" />
 
@@ -49,17 +49,15 @@ Companion app for the Travel Sax, an electronic saxophone. Video courses, play-a
 - The monorepo migration: the app plus ten shared packages, a design-token pipeline, a Storybook design system
 - The agentic infrastructure: per-package CLAUDE.md files, single-source-of-truth rules, custom skills and hooks. The whole team, designer included, worked with Claude Code on top of it
 
-**What I did not build:** the audio engine, the pitch detection and the core playing screen are the work of Kim Chouard, the CTO. I built most of what surrounds them.
-
 </td>
 <td width="50%">
 
 **Shipped:**
 - ✅ Live on iOS, Android and web from one React Native codebase
-- ✅ 5,677 of 14,778 commits in the repo (38%), in a codebase already a year old when I joined
-- ✅ Bi-weekly release train with over-the-air patches in between
-- ✅ 150+ screens, 24 feature modules, a design system of 340+ components in Storybook
-- ✅ Two engineers, one designer and a few AI agents shipping like a much bigger team
+- ✅ 5,677 of 14,778 commits in the repo (38%)
+- ✅ A release every two weeks, from two engineers and AI agents
+- ✅ 150+ screens, a design system of 400+ components documented in Storybook
+- ✅ 10 shared packages, with 52 rule files and 13 hooks for the agents
 
 **Stack:** React Native · Expo · TypeScript · Supabase · BLE
 
@@ -90,10 +88,10 @@ Companion app for the Travel Sax, an electronic saxophone. Video courses, play-a
 
 | Domain | Reality |
 |--------|---------|
-| **React Native / Expo** | Production apps from zero to the App Store: complex animations, performance budgets, BLE and on-device AI |
-| **Audio × hardware** | Real-time MIDI pipelines, Bluetooth device connectivity across native and web |
+| **React Native / Expo** | Production apps on iOS, Android and web: complex animations, BLE, video |
+| **MIDI × hardware** | MIDI over Bluetooth, device connectivity across native and web |
 | **Agentic delivery** | Claude Code as a main developer on production code: spec-first workflow, review gates, the human keeps the decisions |
-| **Architecture & leadership** | CTO-facing ownership: monorepos, design systems, roadmap, code reviews |
+| **Architecture & leadership** | CTO-facing ownership: monorepos, design systems, code reviews |
 
 <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/rule.svg" width="100%" alt="" />
 
@@ -111,10 +109,14 @@ This is the setup I put in place on Odisei Play, where the designer worked in St
 
 ## 📦 Open source
 
-- [sneq-narrative-system](https://github.com/JeanDes-Code/sneq-narrative-system): narrative-state engine for AI-narrated games. Stops the LLM from forgetting or forking canonical reality. TypeScript, SQLite + sqlite-vec.
+- [sneq-narrative-system](https://github.com/JeanDes-Code/sneq-narrative-system): narrative-state engine for AI-narrated games, published on npm as `sneq-engine`. Built to keep the LLM from forgetting or forking what already happened in the story. TypeScript, SQLite, optional sqlite-vec.
 
   [![npm version](https://img.shields.io/npm/v/sneq-engine)](https://www.npmjs.com/package/sneq-engine) [![npm downloads](https://img.shields.io/npm/d18m/sneq-engine)](https://www.npmjs.com/package/sneq-engine)
-- High-signal bug reproductions for the React Native / Expo ecosystem: Fabric view-recycling touch-dead, LegendList sticky headers on web, Skia + WebGPUView conflicts. Minimal repros filed to help maintainers fix real issues.
+- A merged fix in [react-native-ble-manager](https://github.com/innoveit/react-native-ble-manager): [#1437](https://github.com/innoveit/react-native-ble-manager/pull/1437), "fix(android): forward the GATT status on remote disconnect".
+- Bug reports filed since 2024, including:
+  - [expo/expo](https://github.com/expo/expo/issues/43692): `expo-screen-orientation` `lockAsync` ignored on iOS 16+ during navigation transitions. The same bug is open in [react-native-screens #3831](https://github.com/software-mansion/react-native-screens/issues/3831).
+  - [Shopify/react-native-skia #3794](https://github.com/Shopify/react-native-skia/issues/3794): duplicate `WebGPUView` registration with react-native-wgpu. On the WebGPU side, [wcandillon/react-native-webgpu #323](https://github.com/wcandillon/react-native-webgpu/issues/323): the iOS build fails with Skia.
+  - Five issues in [uni-stack/uniwind](https://github.com/uni-stack/uniwind/issues?q=author%3AJeanDes-Code) and one in [nativewind/nativewind #846](https://github.com/nativewind/nativewind/issues/846).
 
 <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/rule.svg" width="100%" alt="" />
 
