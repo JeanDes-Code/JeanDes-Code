@@ -1,8 +1,8 @@
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/banner-light.svg" />
-  <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/banner-dark.svg" width="100%" alt="Jean Desauw. Web and mobile apps, freelance." />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/banner-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/banner-light.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/banner-dark.svg?v=2" width="100%" alt="Jean Desauw. Web and mobile apps, freelance." />
 </picture>
 </p>
 
@@ -71,9 +71,9 @@ Companion app for the Travel Sax, an electronic saxophone. Video courses, play-a
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/stack-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/stack-light.svg" />
-  <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/stack-dark.svg" width="100%" alt="React Native · Expo · TypeScript · Reanimated · BLE · Supabase · Next.js · Claude Code" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/stack-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/stack-light.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/JeanDes-Code/JeanDes-Code/master/assets/stack-dark.svg?v=2" width="100%" alt="React Native · Expo · TypeScript · Reanimated · BLE · Supabase · Next.js · Claude Code" />
 </picture>
 
 </div>
