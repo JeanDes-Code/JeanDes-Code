@@ -1,4 +1,4 @@
-<svg width="1500" height="420" viewBox="0 0 1500 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Jean Desauw: React Native Engineer, Agentic Practitioner">
+<svg width="1500" height="420" viewBox="0 0 1500 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Jean Desauw: web and mobile apps, faster with AI">
   <!-- Ground -->
   <rect width="1500" height="420" fill="#F6F3EE"/>
 
@@ -17,10 +17,10 @@
 
   <!-- Role -->
   <text x="115" y="242" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="600"
-        letter-spacing="4" fill="#AD6800">REACT NATIVE ENGINEER · AGENTIC PRACTITIONER</text>
+        letter-spacing="4" fill="#AD6800">WEB AND MOBILE APPS · FREELANCE</text>
 
   <!-- Tagline -->
-  <text x="116" y="288" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#605954">Production apps, real hardware, and agents on the same code.</text>
+  <text x="116" y="288" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#605954">Ship your app faster with AI, without losing control.</text>
 
   <!-- Session panel -->
   <rect x="900" y="96" width="520" height="228" rx="5"
