@@ -111,7 +111,7 @@ At Odisei, the weekly report crossed PostHog, RevenueCat and Supabase. The team 
 
 - [sneq-narrative-system](https://github.com/JeanDes-Code/sneq-narrative-system): narrative-state engine for AI-narrated games, published on npm as `sneq-engine`. Built to keep the LLM from forgetting or forking what already happened in the story. TypeScript, SQLite, optional sqlite-vec.
 
-  [![npm version](https://img.shields.io/npm/v/sneq-engine)](https://www.npmjs.com/package/sneq-engine)
+  [![npm version](https://img.shields.io/npm/v/sneq-engine)](https://www.npmjs.com/package/sneq-engine) [![npm downloads](https://img.shields.io/npm/d18m/sneq-engine)](https://www.npmjs.com/package/sneq-engine)
 - A merged fix in [react-native-ble-manager](https://github.com/innoveit/react-native-ble-manager): [#1437](https://github.com/innoveit/react-native-ble-manager/pull/1437), "fix(android): forward the GATT status on remote disconnect".
 - Bug reports filed since 2024, including:
   - [expo/expo](https://github.com/expo/expo/issues/43692): `expo-screen-orientation` `lockAsync` ignored on iOS 16+ during navigation transitions. The same bug is open in [react-native-screens #3831](https://github.com/software-mansion/react-native-screens/issues/3831).
